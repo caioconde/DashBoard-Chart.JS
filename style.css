@@ -1,0 +1,27 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color:cornflowerblue;
+}
+
+.container{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.Grafico1{
+    background-color: rgb(185, 211, 220);
+    border: solid 3px;
+    border-color:rgb(58, 129, 206);
+    width: 40%;
+}
+
+.Grafico2{
+    background-color: rgb(185, 211, 220);
+    border: solid 3px;
+    border-color:rgb(58, 129, 206);
+    width: 40%;
+}
